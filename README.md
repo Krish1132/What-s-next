@@ -1,6 +1,6 @@
 
 
-# What-s-next
+# What's next
 
 
 ### Chrome extension for managing tasks
