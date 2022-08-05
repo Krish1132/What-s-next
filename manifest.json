@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "What's next",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "asset_4.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
